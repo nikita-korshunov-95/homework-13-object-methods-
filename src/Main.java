@@ -24,6 +24,7 @@ public class Main {
         System.out.println(lordOfTheRings.hashCode());
         System.out.println(warAndPeace.hashCode());
         System.out.println(lordOfTheRings.equals(warAndPeace));
+        System.out.println('');
 
     }
 }
